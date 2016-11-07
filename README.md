@@ -42,6 +42,7 @@ Pull Request時 請盡可能提出以下幾點 讓我可以充分了解需求<br
   - [Implement IEnumerator](https://github.com/dcvsling/UseLess/tree/master/CSharp/Linq/EnumeratorImpl) And [Generic Controller](https://github.com/dcvsling/UseLess/tree/master/CSharp/Mvc/GenericController)
 - 2016/11/08 - Rendering Branching Over Boolean Tests Obsolete Practice
   - [Branching Over Boolean Tests](https://github.com/dcvsling/UseLess/tree/master/CSharp/Syntex/BranchingOverBoolean)
+
 ## Credits
 
 Kevin Cheng<br/>
